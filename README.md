@@ -2,7 +2,7 @@
 
 Hello and welcome. This repository is the starting point for all developers, creators, and partners collaborating with AltroStudio. We specialize in building innovative apps, dynamic web services, and immersive gaming experiences.
 
-<img width="100%" height="320" alt="altro_banner" style="scale(.7)" src="https://github.com/user-attachments/assets/c7fb538b-45cd-4f1c-93e5-24bce129f37c" />
+<img width="100%" height="100% auto" alt="altro_banner"  src="https://github.com/user-attachments/assets/c7fb538b-45cd-4f1c-93e5-24bce129f37c" />
 
 
 ---
