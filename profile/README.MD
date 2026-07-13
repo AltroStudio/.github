@@ -15,7 +15,7 @@ We actively utilize a wide range of modern technologies, including but not limit
 * Frontend: React, Vue.js, Next.js, Flutter
 * Backend: Node.js, Python (FastAPI/Django), firebase, php(MVC pattern)
 * Game Engines: Unity, Unreal Engine, Godot
-* Infrastructure: AWS, Docker, Kubernetes, GitHub Actions, vercel
+* Infrastructure: CloudFLare, Docker, GitHub Actions, vercel
 ---
 ## Getting Started and Collaboration
 If you are a new team member or an external collaborator, please follow these general steps:
