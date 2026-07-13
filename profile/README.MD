@@ -29,4 +29,3 @@ Got questions or want to collaborate? Feel free to reach out to us:
 * Email: kazinobel9807@gmail.com
 * Slack/Discord: nobel7422
 ---
-Happy Coding! Let's build something awesome together.
